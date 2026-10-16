@@ -1,2 +1,4 @@
 pyTelegramBotAPI
+gTTS
+google-generativeai
 requests
